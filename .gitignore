@@ -1,0 +1,9 @@
+# Compiled binaries
+main
+*.out
+
+# Object files
+*.o
+
+# Editor junk
+.vscode/
